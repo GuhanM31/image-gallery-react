@@ -1,18 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import './style.css'
-import App from './App';
+import './style.css';
 
-import pic1 from './assets/images/dog1.jpg'
-import pic2 from './assets/images/dog2.jpg'
-import pic3 from './assets/images/dog3.jpg'
-import pic4 from './assets/images/dog4.webp'
 
-import pic5 from './assets/images/dog5.jpg'
-import pic6 from './assets/images/dog6.jpg'
-import pic7 from './assets/images/dog7.jpg'
-import pic8 from './assets/images/dog8.jpg'
+
+
+
+
+
+import pic1 from './assets/images/dog1.jpg';
+import pic2 from './assets/images/dog2.jpg';
+import pic3 from './assets/images/dog3.jpg';
+import pic4 from './assets/images/dog4.webp';
+
+import pic5 from './assets/images/dog5.jpg';
+import pic6 from './assets/images/dog6.jpg';
+import pic7 from './assets/images/dog7.jpg';
+import pic8 from './assets/images/dog8.jpg';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -44,8 +49,16 @@ function Dogimg() {
 
 
 
+
+
+
+
 root.render(
     <Dogimg></Dogimg>
 );
+
+
+
+
 
 
